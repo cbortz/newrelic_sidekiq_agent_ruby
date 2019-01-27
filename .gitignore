@@ -1,2 +1,5 @@
 config/newrelic_plugin.yml
 newrelic_sidekiq_agent.pid
+
+.ruby-version
+.ruby-gemset
